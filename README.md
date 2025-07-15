@@ -10,6 +10,9 @@ This project is a web-based application for predicting energy consumption (or an
 - Visualize Actual vs. Predicted values 📈
 - Easy-to-use interface
 - Logout functionality for session management
+- ## 📸 Screenshot
+  ![Prediction Graph 1]<img width="1366" height="720" alt="Screenshot 2025-04-16 192639" src="https://github.com/user-attachments/assets/c1788d58-29d5-4cce-90a6-60f920235f22" />
+  ![Prediction Table 1]<img width="1134" height="634" alt="Screenshot 2025-04-16 192659" src="https://github.com/user-attachments/assets/1cc7e4f9-b876-4939-9614-b5f2511f978c" />
 
 ## 🧩 Tech Stack
 
@@ -27,8 +30,9 @@ This project is a web-based application for predicting energy consumption (or an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/energy-prediction-app.git
-   cd energy-prediction-app
+   git clone https://github.com/sekireddyvasudha/full-stack-energy-consumption-project.git
+   cd full-stack-energy-consumption-project
+
 
 Set up the virtual environment
 
@@ -87,5 +91,7 @@ Scikit-learn Documentation
 Flask / FastAPI Documentation
 
 Dataset source: UCI Machine Learning Repository
+
+Added screenshot to README
 
 
